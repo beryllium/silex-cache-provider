@@ -1,0 +1,16 @@
+{
+    "name": "beryllium/silex-cache-provider",
+    "description": "A cache provider for Silex, supporting Memcache, APC, and file-based caching.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Boyd",
+            "email": "kevin.boyd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">5.3.8",
+        "beryllium/cache": "*"
+    }
+}
