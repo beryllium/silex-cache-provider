@@ -16,5 +16,6 @@
     },
     "autoload": {
         "psr-0": { "Beryllium\\SilexCacheProvider": "" }
-    }
+    },
+    "target-dir": "Beryllium/SilexCacheProvider"
 }
