@@ -11,6 +11,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">5.3.8",
+        "silex/silex": "*",
         "beryllium/cache": "*"
+    },
+    "autoload": {
+        "psr-0": { "Beryllium\\SilexCacheProvider": "" }
     }
 }
